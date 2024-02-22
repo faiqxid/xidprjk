@@ -8,7 +8,7 @@ xidprjk is a simple project that provides a unique ID generator.
 To use xidprjk in your Node.js project, you can install it via npm:
 
 ```bash
-npm install xidprjk
+npm install git+https://github.com/faiqxid/xidprjk.git
 ```
 
 ## Usage
